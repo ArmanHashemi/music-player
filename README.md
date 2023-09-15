@@ -2,7 +2,7 @@
 
 Music player with vue3 , typescript , quasar v2
 
-[online demo](https://github.com/user/repo/blob/branch/other_file.md)
+[online demo](https://armanhashemi.github.io/music-player)
 
 ## Install the dependencies
 ```bash
