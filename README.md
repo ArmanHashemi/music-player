@@ -2,6 +2,8 @@
 
 Music player with vue3 , typescript , quasar v2
 
+[online demo](https://github.com/user/repo/blob/branch/other_file.md)
+
 ## Install the dependencies
 ```bash
 yarn
