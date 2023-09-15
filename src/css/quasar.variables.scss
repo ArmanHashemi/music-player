@@ -1,0 +1,52 @@
+$primary   : #4527A0;
+$secondary : #1D1B29;
+$accent    : #343741;
+$tertiary  : #71717A;
+
+$fourtiary : #F5F5F5;
+$reverse   : #FFFFFF;
+$alarm     : #EF4444;
+
+$positive  : #21BA45;
+$negative  : #C10015;
+$info      : #31CCEC;
+$warning   : #F2C037;
+
+:root {
+  --q-tertiary : $tertiary;
+  --q-fourtiary : $fourtiary;
+  --q-reverse : $reverse;
+  --q-alarm : $alarm;
+
+
+  .bg-tertiary{
+    background: var(--q-tertiary) !important
+  }
+  .text-tertiary{
+    color: var(--q-tertiary) !important;
+  }
+
+  .bg-fourtiary{
+    background: var(--q-fourtiary) !important
+  }
+  .text-fourtiary{
+    color: var(--q-fourtiary) !important;
+  }
+
+  .bg-reverse{
+    background: var(--q-reverse) !important
+  }
+  .text-reverse{
+    color: var(--q-reverse) !important;
+  }
+
+  .bg-alarm{
+    background: var(--q-alarm) !important
+  }
+  .text-alarm{
+    color: var(--q-alarm)  !important;
+  }
+
+}
+
+
