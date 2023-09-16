@@ -36,6 +36,7 @@
     "eslint-plugin-import": "^2.19.1",
     "eslint-plugin-n": "^15.0.0",
     "eslint-plugin-promise": "^6.0.0",
+    "typescript": "^4.5.4",
     "eslint-plugin-vue": "^9.0.0",
     "postcss": "^8.4.27",
     "push-dir": "^0.4.1",
