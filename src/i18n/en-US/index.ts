@@ -4,5 +4,7 @@
 export default {
   goodAfterNoon: 'Good Afternoon',
   music: 'Music',
-  podcast: 'Podcasts & Shows'
+  podcast: 'Podcasts & Shows',
+  pickedForYou: 'Picked For You',
+  playList: 'Playlists'
 }
