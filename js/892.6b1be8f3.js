@@ -1,0 +1,1 @@
+"use strict";(globalThis["webpackChunkmusic_player"]=globalThis["webpackChunkmusic_player"]||[]).push([[892],{6892:(s,a,r)=>{r.r(a),r.d(a,{default:()=>t});var c=r(9835);const e={class:""};function u(s,a){return(0,c.wg)(),(0,c.iD)("div",e)}var i=r(1639);const l={},n=(0,i.Z)(l,[["render",u]]),t=n}}]);
