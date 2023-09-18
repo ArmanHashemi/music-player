@@ -6,5 +6,10 @@ export default {
   music: 'Music',
   podcast: 'Podcasts & Shows',
   pickedForYou: 'Picked For You',
-  playList: 'Playlists'
+  jumpBack: 'Jump back in',
+  playList: 'Playlists',
+  home: 'Home',
+  search: 'Search',
+  library: 'Library',
+  premium: 'Premium'
 }

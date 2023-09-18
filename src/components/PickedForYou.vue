@@ -22,7 +22,7 @@
             </div>
             <div class="flex-1"></div>
             <div class="w-full flex justify-between items-center">
-              <img :src="$images.icons.fav_empty" class="cursor-pointer w-8">
+              <img :src="$images.icons.fav_empty" class="cursor-pointer w-8" :class="(store.themeMode === 'light') ? 'svg-dark':'svg-light'">
               <img :src="$images.icons.play" class="cursor-pointer w-8 rounded-full bg-white">
 
             </div>
