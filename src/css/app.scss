@@ -1,6 +1,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+ $spotify-dark-green : #14843C;
+ $spotify-light-green : #1ED760;
 
 #app {
   -webkit-font-smoothing: antialiased;
@@ -86,4 +88,10 @@ input[type=number] {
 }
 .svg-light{
   filter: brightness(0) invert(1);
+}
+.spotify-border {
+  border: 2px solid #1ED760 !important;
+}
+.spotify-background {
+  background: #14843C !important;
 }
