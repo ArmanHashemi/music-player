@@ -18,17 +18,17 @@ export default function useTheme () {
     }
   }
   function darkTheme () {
-    setCssVar('primary', '#4527A0')
+    setCssVar('primary', '#000000')
     setCssVar('secondary', '#1D1B29')
-    setCssVar('accent', '#FAFAFA')
+    setCssVar('accent', '#343741')
     setCssVar('tertiary', '#E7E7E7')
     setCssVar('fourtiary', '#18181B')
     setCssVar('reverse', '#FFFFFF')
   }
   function lightTheme () {
-    setCssVar('primary', '#4527A0')
+    setCssVar('primary', '#FFF')
     setCssVar('secondary', '#FFFFFF')
-    setCssVar('accent', '#343741')
+    setCssVar('accent', '#e2e2ea')
     setCssVar('tertiary', '#71717A')
     setCssVar('fourtiary', '#F5F5F5')
     setCssVar('reverse', '#000000')

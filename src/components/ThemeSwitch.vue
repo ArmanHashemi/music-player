@@ -4,8 +4,8 @@
     v-model="theme"
     @update:model-value="changeTheme"
     checked-icon="dark_mode"
-    icon-color="accent"
-    color="primary"
+    icon-color="primary"
+    color="reverse"
     unchecked-icon="light_mode"
   />
 </template>
